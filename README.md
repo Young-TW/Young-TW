@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Young727TW)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Visitor Count](https : //profile-counter.glitch.me/Young727TW/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Young727TW/count.svg)
