@@ -1,8 +1,24 @@
 # Young's profile
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Young-TW&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Young-TW&langs_count=8&theme=dark)
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCczXI0u-LKlX-oBwrkKtOdg">
+   <img src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCJC4x0CgeqsmdgX3W_cJB3A&key=AIzaSyB5B9NjfsSQ5wtika8eBub1kf0stXeHUMg&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCczXI0u-LKlX-oBwrkKtOdg">
+   <img src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCJC4x0CgeqsmdgX3W_cJB3A&key=AIzaSyB5B9NjfsSQ5wtika8eBub1kf0stXeHUMg&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>
+  </a>
+  <br />
+  <br />
+  <img alt="youtube views" src="https://github-readme-stats.vercel.app/api?username=Young-TW&show_icons=true&theme=react"/>
+  <br />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Young-TW&langs_count=8&theme=react"/>
+  </a>
+  <br />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Young-TW's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Young-TW&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+</p>
 
 ## Social Media
 <p align="left">
