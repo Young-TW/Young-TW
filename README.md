@@ -7,6 +7,9 @@
   <a href="https://www.youtube.com/channel/UCczXI0u-LKlX-oBwrkKtOdg">
    <img src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCJC4x0CgeqsmdgX3W_cJB3A&key=AIzaSyB5B9NjfsSQ5wtika8eBub1kf0stXeHUMg&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>
   </a>
+  <a href="https://discord.gg/H4jJFZb">
+    <img src="https://img.shields.io/discord/439411756033638400?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/>
+  </a>
   <br />
   <br />
   <img alt="youtube views" src="https://github-readme-stats.vercel.app/api?username=Young-TW&show_icons=true&theme=react"/>
