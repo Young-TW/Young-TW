@@ -1,10 +1,4 @@
 <h1 align="center">Young's profile</h1>
-<div id="card" style="width: 100%; height: 400px;">
-  <div id="pic-container" style="height: 120px; width: 120px">
-    <image src="https://avatars.githubusercontent.com/u/62501690" style="height: 100px; width: 100px;">
-    <button style="height:20px; " onclick="href=''">Contact me</button>
-  </div>
-</div>
 <p align="center">
   <a href="https://www.youtube.com/channel/UCJC4x0CgeqsmdgX3W_cJB3A">
    <img src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCJC4x0CgeqsmdgX3W_cJB3A&key=AIzaSyB5B9NjfsSQ5wtika8eBub1kf0stXeHUMg&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/>
@@ -28,7 +22,7 @@
   </a>
 </p>
 
-## Social Media
+### Social Media
 <p align="left">
   <a style="padding: 3px;" href="https://github.com/Young-TW"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
   <a style="padding: 3px;" href="https://discord.gg/H4jJFZb"><img alt="Discord - Young#0001" title="Discord - Young#0001" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
@@ -38,6 +32,6 @@
   <a style="padding: 3px;" href="https://steamcommunity.com/profiles/76561198819185868/"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>
 </p>
 
-## Visitor Count
+### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/Young-TW/count.svg)
 
