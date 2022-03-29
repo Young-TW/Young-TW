@@ -6,9 +6,6 @@
   <a href="https://www.youtube.com/channel/UCJC4x0CgeqsmdgX3W_cJB3A">
    <img src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCJC4x0CgeqsmdgX3W_cJB3A&key=AIzaSyB5B9NjfsSQ5wtika8eBub1kf0stXeHUMg&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>
   </a>
-  <a href="https://discord.gg/H4jJFZb">
-    <img src="https://img.shields.io/discord/439411756033638400?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/>
-  </a>
   <br />
   <br />
   <img alt="youtube views" src="https://github-readme-stats.vercel.app/api?username=Young-TW&show_icons=true&theme=react"/>
@@ -24,12 +21,12 @@
 
 ### Social Media
 <p align="left">
-  <a style="padding: 3px;" href="https://github.com/Young-TW"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
-  <a style="padding: 3px;" href="https://discord.gg/H4jJFZb"><img alt="Discord - Young#0001" title="Discord - Young#0001" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
-  <a style="padding: 3px;" href="https://www.facebook.com/young20050727"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>
-  <a style="padding: 3px;" href="https://www.youtube.com/channel/UCJC4x0CgeqsmdgX3W_cJB3A"><img alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
-  <a style="padding: 3px;" href="https://www.twitch.tv/young_rou"><img alt="Twitch" title="Twitch" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
-  <a style="padding: 3px;" href="https://steamcommunity.com/profiles/76561198819185868/"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>
+  <a style="padding: 3px;" href="https://github.com/Young-TW"><img alt="GitHub" title="GitHub" height="32" width="32" src="./img/github.png"></a>
+  <a style="padding: 3px;" href="https://www.facebook.com/young20050727"><img alt="Facebook" title="Facebook" height="32" width="32" src="./img/facebook.png"></a>
+  <a style="padding: 3px;" href="https://www.youtube.com/channel/UCJC4x0CgeqsmdgX3W_cJB3A"><img alt="YouTube" title="YouTube" height="32" width="32" src="./img/youtube.png"></a>
+  <a style="padding: 3px;" href="https://www.twitch.tv/y0ungtw"><img alt="Twitch" title="Twitch" height="32" width="32" src="./img/twitch.png"></a>
+  <a style="padding: 3px;" href="https://www.instagram.com/young__tw/"><img alt="Instagram" title="Instagram" height="32" width="32" src="./img/instagram.png"></a>
+  <a style="padding: 3px;" href="https://discord.gg/Sugbu3t9zd"><img alt="Discord" title="Discord" height="32" width="32" src="./img/discord.png"></a>
 </p>
 
 ### Visitor Count
