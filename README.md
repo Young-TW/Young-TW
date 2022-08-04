@@ -31,7 +31,3 @@
   <a style="padding: 3px;" href="https://twitter.com/Young___TW"><img alt="Twitter" title="Twitter" height="32" width="32" src="./img/twitter.png"></a>
   <a style="padding: 3px;" href="https://zen.ly/-Young-"><img alt="Zenly" title="Zenly" height="32" width="32" src="./img/zenly.png"></a>
 </p>
-
-### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/Young-TW/count.svg)
-
