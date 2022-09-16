@@ -1,14 +1,6 @@
 <h1 align="center">Young's profile</h1>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCJC4x0CgeqsmdgX3W_cJB3A">
-   <img src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCJC4x0CgeqsmdgX3W_cJB3A&key=AIzaSyB5B9NjfsSQ5wtika8eBub1kf0stXeHUMg&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCJC4x0CgeqsmdgX3W_cJB3A">
-   <img src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCJC4x0CgeqsmdgX3W_cJB3A&key=AIzaSyB5B9NjfsSQ5wtika8eBub1kf0stXeHUMg&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>
-  </a>
-  <br />
-  <br />
-  <img alt="youtube views" src="https://github-readme-stats.vercel.app/api?username=Young-TW&show_icons=true&theme=react"/>
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Young-TW&show_icons=true&theme=react"/>
   <br />
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Young-TW&layout=compact&langs_count=8&theme=react"/>
@@ -18,6 +10,12 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Young-TW's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Young-TW&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
 </p>
+
+### About Me
+
+- Non-school-based experimental education student
+- FPS & rhythm games player
+- Open source software contributor
 
 ### Social Media
 <p align="left">
