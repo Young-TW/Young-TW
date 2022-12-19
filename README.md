@@ -27,5 +27,3 @@
   <a style="padding: 3px;" href="https://discord.gg/Sugbu3t9zd"><img alt="Discord" title="Discord" height="32" width="32" src="./img/discord.png"></a>
   <a style="padding: 3px;" href="https://paypal.me/YoungUwU"><img alt="Paypal" title="Paypal" height="32" width="32" src="./img/paypal.png"></a>
   <a style="padding: 3px;" href="https://twitter.com/Young___TW"><img alt="Twitter" title="Twitter" height="32" width="32" src="./img/twitter.png"></a>
-  <a style="padding: 3px;" href="https://zen.ly/-Young-"><img alt="Zenly" title="Zenly" height="32" width="32" src="./img/zenly.png"></a>
-</p>
