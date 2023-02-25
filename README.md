@@ -13,7 +13,6 @@
 
 ### About Me
 
-- Non-school-based experimental education student
 - FPS & rhythm games player
 - Open source software contributor
 
