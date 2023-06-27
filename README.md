@@ -3,7 +3,7 @@
   <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Young-TW&show_icons=true&theme=react"/>
   <br />
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Young-TW&layout=compact&langs_count=8&theme=react"/>
+    <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Young-TW&layout=compact&langs_count=16&theme=react"/>
   </a>
   <br />
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
