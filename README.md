@@ -10,8 +10,3 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Young-TW's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Young-TW&theme=react&stroke=0000"/>
   </a>
 </p>
-
-### About Me
-
-- FPS & rhythm games player
-- Open source software contributor
