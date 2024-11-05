@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Young-TW&title_color=39d353&bg_color=00000000&text_color=ffffff&hide_border=true&show_icons=true"/>
   <br />
-  <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Young-TW&title_color=39d353&bg_color=00000000&text_color=ffffff&layout=compact&hide_border=true&langs_count=6"/>
+  <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Young-TW&title_color=39d353&bg_color=00000000&text_color=ffffff&layout=compact&hide_border=true&card_width=467&langs_count=6"/>
   <br />
   <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
   <img src="https://streak-stats.demolab.com?user=Young-TW&theme=github-dark&background=0000&hide_border=true&card_width=467" alt="GitHub Streak" />
