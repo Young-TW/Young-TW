@@ -1,4 +1,3 @@
-<h1 align="center">Young's profile</h1>
 <p align="center">
   <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Young-TW&title_color=39d353&bg_color=00000000&text_color=ffffff&hide_border=true&show_icons=true"/>
   <br />
