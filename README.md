@@ -7,10 +7,7 @@ I'm a computer science student in Taiwan who loves working with **Rust** & **C++
 <div align="center">
 
   <!-- 由 .github/workflows/metrics.yml 自動產生並 commit 進本 repo -->
-  <!-- 統計 + 貢獻日曆 -->
+  <!-- 統計 + 貢獻日曆 + 使用語言 -->
   <img alt="github metrics" src="./metrics.svg" />
-
-  <!-- 使用語言 -->
-  <img alt="top languages" src="./metrics.languages.svg" />
 
 </div>

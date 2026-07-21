@@ -19,8 +19,9 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      # 主圖：標題 + 統計 + 貢獻日曆（取代原本的 stats / streak / activity graph）
-      - name: Generate main metrics
+      # 單張圖：標題 + 統計 + 貢獻日曆 + 使用語言
+      # （取代原本的 stats / streak / activity graph / top-langs 四張第三方圖）
+      - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -29,14 +30,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-      # 語言圖：取代原本的 top-langs
-      - name: Generate languages metrics
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: Young-TW
-          filename: metrics.languages.svg
-          base: ""
           plugin_languages: yes
           plugin_languages_limit: 8
+          plugin_languages_sections: most-used
